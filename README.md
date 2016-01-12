@@ -6,7 +6,7 @@
 **Please cite the same in case you use the ANGEL paradigm for your study. Please note that the source code is being provided without any support or warranty of any kind.** 
 
 **Contents:**
-* ANGELParadigm - Theis contains the ANGEL paradigm for presentation in English, Hindi and Kannada languages. This also contains rest and meditation paradigm for a related study. 
+* ANGELParadigm - This contains the ANGEL paradigm for presentation in English, Hindi and Kannada languages. This also contains a rest and meditation paradigm for a related study. 
 * ANGELFunctions - This contains MATLAB functions and scripts for EEG and ERP analysis done for the paper.
 
 The code was written using the following platform and toolboxes:
